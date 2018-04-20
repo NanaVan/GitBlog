@@ -7,8 +7,8 @@ title       : 7V_SPACE
 description : Enjoy yourself!
 author      : NanaVan
 email       : wangqian2016@impcas.ac.cn
-baseurl     : "GitBlog" # the subpath of your site, e.g. /blog
-url         : ""
+baseurl     : "/GitBlog" # the subpath of your site, e.g. /blog
+url         : "https://nanavan.github.io"
 date_format : "%-d %b %Y"
 port        : 4000
 
