@@ -11,7 +11,11 @@ author: NanaVan
 post_meta: false
 permalink: /docs/
 ---
-## Welcome to the 7V_SPACE! <br/> There are some things may interest you! 
+## Welcome to the 7V_SPACE! 
 
-### [Project list](/docs/project/)
-### [Blog list](/docs/blog/)
+There are some things may interest you! 
+
+* [Project list]{{ '/project/' | relative_url }}){:target="_blank"}
+* [Blog list]{{ '/blog/' | relative_url }}){:target="_blank"}
+
+Have a look and enjoy yourself here!
