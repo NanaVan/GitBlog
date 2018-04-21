@@ -15,7 +15,7 @@ permalink: /docs/
 
 There are some things may interest you! 
 
-*[Project list]({{ site.baseurl }}{% link /docs/project/ %})
-*[Blog list]({{ site.baseurl }}{% link /docs/blog/ %})
+* [Project list]({{ "/docs/project/" | relative_url }})
+* [Blog list]({{ "/docs/blog/" | relative_url }})
 
 Have a look and enjoy yourself here!
