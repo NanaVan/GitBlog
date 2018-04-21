@@ -15,7 +15,7 @@ permalink: /docs/
 
 There are some things may interest you! 
 
-- [Project list]({{ site.baseurl }}{% link _docs/01-project.md %})
-- [Blog list]({{ site.baseurl }}{% link _docs/02-blog.md %})
+*[Project list]({{ site.baseurl }}{% link /docs/project/ %})
+*[Blog list]({{ site.baseurl }}{% link /docs/blog/ %})
 
 Have a look and enjoy yourself here!
