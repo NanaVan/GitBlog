@@ -16,7 +16,7 @@ port        : 4000
 ################################
 # Theme Settings
 ################################
-remote-theme: desiredpersona/minimal-jekyll-theme
+remote_theme: desiredpersona/minimal-jekyll-theme
 #theme       : minimal-jekyll-theme
 permalink   : /:title/
 
