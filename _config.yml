@@ -60,7 +60,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-archives
+#  - jekyll-archives
 
 # Jekyll SEO Tag Settings https://github.com/jekyll/jekyll-seo-tag
 social:
@@ -89,17 +89,17 @@ atom_feed:
     path: # Leave blank to use default (feed.xml)
 
 # Jekyll Archives Settings https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-     - categories
-     - tags
-     - year
-     - month
-     - day
-  layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+#jekyll-archives:
+#  enabled:
+#     - categories
+#     - tags
+#     - year
+#     - month
+#     - day
+#  layout: 'archive'
+#  permalinks:
+#    year: '/:year/'
+#    month: '/:year/:month/'
+#    day: '/:year/:month/:day/'
+#    tag: '/tag/:name/'
+#    category: '/category/:name/'
