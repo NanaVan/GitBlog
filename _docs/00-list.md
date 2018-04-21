@@ -15,7 +15,7 @@ permalink: /docs/
 
 There are some things may interest you! 
 
--[Project list]({{ '/project/' | relative_url }}){:target="_blank"}
-- [Blog list]({{ '/blog/' | relative_url }}){:target="_blank"}
+- [Project list]({{ site.baseurl }}{% link _docs/01-project.md %})
+- [Blog list]({{ site.baseurl }}{% link _docs/02-blog.md %})
 
 Have a look and enjoy yourself here!
