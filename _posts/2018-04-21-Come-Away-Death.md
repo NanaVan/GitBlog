@@ -3,8 +3,10 @@ layout: post
 title:  "Come Away, Death"
 date:   2018-04-21 00:55:18 +0800
 author:  NanaVan
-category: 2018
-tags: lyrical
+categories: 
+    - lyrical
+tags: 
+    - Shakespeare
 ---
 >
 Come away, come away, death,                        <br/>

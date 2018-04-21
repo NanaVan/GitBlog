@@ -12,6 +12,6 @@ post_meta: false
 permalink: /docs/blog/
 ---
 
-## 01 - [Come away, death](/Come-Away-Death/)
+## 01 - [Come away, death]({{ "/Come-Away-Death/" | relative_url }})
 A piece, which is one of my favorite, was written by W. Shakespeare.
 
