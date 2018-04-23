@@ -2,7 +2,7 @@
 
 Desired Persona:
   name          : "NanaVan"
-  picture       : "https://github.com/NanaVan/nanavan.github.io/blob/master/BigHead.png"
+  picture       : "/images/BigHead.png"
   url           : "https://nanavan.github.io/"
   email         : "wangqian2016@impcas.ac.cn"
   bio           : "Mathemtica & Python lover"
