@@ -8,5 +8,5 @@ paragraph: Give me a hadron, I'll be strong.
 header:
     layout: hero
     navigation: fancy
-    image: "/images/Page-background.jpg"
+    image: "/assets/images/Page-background.jpg"
 ---
