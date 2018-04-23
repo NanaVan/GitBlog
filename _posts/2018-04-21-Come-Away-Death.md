@@ -8,7 +8,7 @@ categories:
 tags:
         - Shakespeare
 ---
->
+>>
 Come away, come away, death,                        <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     and in sad cypress let me be laid               <br/>
@@ -20,9 +20,8 @@ My shroud of white, stuck all with yew,             <br/>
     O, prepare it!                                  <br/>
 My part of death, no one so true                    <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Did share it.                       
-
->
+    Did share it.                                   <br/>
+                                                    <br/>
 Not a flower, not a flower sweet,                   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     On my black coffin let there be strewn.         <br/>
