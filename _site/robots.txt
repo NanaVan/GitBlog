@@ -1,1 +1,1 @@
-Sitemap: https://nanavan.github.io/GitBlog/sitemap.xml
+Sitemap: http://localhost:4000/GitBlog/sitemap.xml

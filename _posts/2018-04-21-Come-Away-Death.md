@@ -20,8 +20,9 @@ My shroud of white, stuck all with yew,             <br/>
     O, prepare it!                                  <br/>
 My part of death, no one so true                    <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Did share it.                                   <br/>
-                                                    <br/>
+    Did share it.                       
+
+>
 Not a flower, not a flower sweet,                   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     On my black coffin let there be strewn.         <br/>
