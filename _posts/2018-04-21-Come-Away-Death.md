@@ -3,6 +3,17 @@ layout: post
 title:  "Come Away, Death"
 date:   2018-04-21 00:55:18 +0800
 author:  NanaVan
+
+header:
+    layout: hero
+    image: "/assets/images/ComeAwayDeath_BridgeWuhan.JPG"
+    caption: "[Port of Wuhan](https://en.wikipedia.org/wiki/Port_of_Wuhan)"
+    class: bg-darken-25 bg-darken-0-ns
+    cta:
+        text: "Song from Ian Bostridge"
+        url: https://www.youtube.com/watch?v=dGEL154YnRA
+        class: btn btn--info
+
 categories:
         - lyrical
 tags:
