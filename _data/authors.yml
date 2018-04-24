@@ -8,21 +8,5 @@ NanaVan:
   bio           : "Mathemtica & Python lover"
   post_meta_bio : "Give me a hadron, I'll be strong."
   cta           : "Follow"
-  cta_url       : "https://facebook.com/Van4Wang"
-#  twitter       : "desiredpersona"
-#  google_plus   : "DesiredPersona"
+  cta_url       : "https://github.com/NanaVan"
   facebook      : "Van Wang"
-
-
-#Joe Bloggs:
-#  name          : "Joe Bloggs"
-#  picture       : "/assets/images/author-2.png"
-#  url           : "http://example.com"
-#  email         : "joebloggs458@gmail.com"
-#  bio           : "This is a long bio that only appears under a blog post"
-#  post_meta_bio : "Business man. Investor"
-#  cta           : "Subscribe"
-#  cta_url       : "/newsletter/"
-#  twitter       : "joebloggs"
-#  google_plus   : "joebloggs"
-#  facebook      : "joebloggs"
