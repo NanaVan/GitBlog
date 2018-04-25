@@ -9,4 +9,5 @@ header:
     layout: hero
     navigation: fancy
     image: "/assets/images/Page-background.jpg"
+    class: bg-lighten-1
 ---
